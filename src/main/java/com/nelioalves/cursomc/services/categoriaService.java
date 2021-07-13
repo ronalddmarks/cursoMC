@@ -11,7 +11,7 @@ import com.nelioalves.cursomc.repositories.CategoriaRepository;
 import javassist.tools.rmi.ObjectNotFoundException;
 
 @Service
-public class categoriaService {
+public class CategoriaService {
 
 	@Autowired
 	private CategoriaRepository repo;
